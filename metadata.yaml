@@ -1,0 +1,33 @@
+_repo: Tulitikkuja-lainaamassa_10927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassila, Maiju
+    aliases:
+    - Rantamala, Irmari
+    - Untola, Algoth
+    - Tietavainen, Algoth
+    - Vatanen, J. I.
+    - Tietäväinen, Algoth
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '3754'
+    url: http://www.gutenberg.org/2009/agents/3754
+    wikipedia:
+    - http://www.kirjasto.sci.fi/lassila.htm
+    - http://fi.wikipedia.org/wiki/Algot_Untola
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10927'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- GITenberg
+title: Tulitikkuja lainaamassa
+url: http://www.gutenberg.org/ebooks/10927
